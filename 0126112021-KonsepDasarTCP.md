@@ -39,3 +39,9 @@ Pada lapisan ini protokol TCP/IP, memiliki kontak langsung dengan hardware kompu
 ### 4. Physical Layer
 
 
+## Cara Kerja TCP/IP
+
+Pada hari ini, tersedia cukup banyak software protocol analyzer atau dalam bahasa awam-nya sering di sebut sebagai packet sniffer (pen-cium paket). Protocol analyzer umumnya berupa software yang dijalankan di sebuah komputer atau sebuah hardware yang khusus. Di kedua konfigurasi alat tersebut, card jaringan / Network Interface Card (NIC) harus di operasikan dalam mode promiscous dimana NIC akan menangkap semua paket yang lewat di jaringan, tidak hanya paket yang ditujukan pada NIC tersebut saja. Hampir semua protocol analyzer akan menampilkan / menginterpretasikan sebagian dari paket tersebut.
+
+Cukup banyak software paket sniffer yang gratis / murah yang dapat beroperasi di Linux maupun di Windows. Salah satu yang paling populer adalah wireshark, ethereal, tcpcump yang biasanya ada di distribusi Linux. Windump adalah implementasi tcpcump di Windows. Baik tcpdump maupun windump bentuk-nya text, jadi tidak terlalu manusiawi. Bagi mereka yang menginginkan interface grafis, sebaiknya mencoba menggunakan Ethereal (sekarang bernama Wireshark) yang menggunakan interface grafis, ada di Linux maupun di Windows. Wireshark merupakan sniffer favorit yang saya gunakan akhir-akhir ini.
+### Wireshark (http://www.wireshark.org/)
