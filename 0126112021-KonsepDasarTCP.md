@@ -36,9 +36,6 @@ Pada layer Network terjadi pemecahan data agar bisa sesuai dengan besar media ya
 ### 3. Link Layer
 Pada lapisan ini protokol TCP/IP, memiliki kontak langsung dengan hardware komputer. Dengan transmisi khusus, komputer memiliki kemmapuan untuk mengirimkan paket data pada lapisan Network melalui media kabel tembaga (fiber optic) ataupun secara nirkabel (wireless).
 
-Itulah beberapa hal mengenai pengertian TCP/IP, kelebihan, fungsi dan lapisan-lapisan pada protokol tersebut. Dengan mengetahui berbagai hal ini, maka sahabat Qwords diharapkan bisa lebih paham bagaimana data dari satu komputer ke komputer lain dalam sebuah jaringan didistribusikan.
-
-
 ### 4. Physical Layer
 
 
