@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1mBr5BYyDOCXVXyHOw6aLuT_V3mJKKAB2/view?usp=sharing"><br><br>
+  <img src="http://drive.google.com/uc?export=view&id=1mBr5BYyDOCXVXyHOw6aLuT_V3mJKKAB2"><br><br>
 </div>
-------------
-# DataSecurity
+
+## DataSecurity
+
 bagian pertama pengenalan TCP/IP
