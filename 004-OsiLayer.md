@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/uc?export=view&id=1z7JB0_CiLqJBjEmEQGO37bLXrDQVuU_d">
 # Pengenalan 7 Osi Layer
 Model OSI (Open System Interconnection) diciptakan oleh International Organization for Standardization (ISO) yang menyediakan kerangka logika terstruktur bagaimana proses komunikasi data berinteraksi melalui jaringan. Dahulu komunikasi data yang melibatkan komputer-komputer dari vendor yang berbeda-beda. Masing-masing vendor menggunakan protocol dan format data yang berbeda-beda. Sehingga ISO membuat suatu arsitektur komunikasi yang dikenal sebagai model OSI yang mendefinisikan standar untuk menghubungkan komputer-komputer dari vendor yang berbeda.
 Secara umum, fungsi dan penjelasan masing-masing layer adalah sebagai berikut :
