@@ -35,4 +35,6 @@ Meskipun dalam praktiknya kita tidak berhubungan langsung dengan model OSI, dan 
 
 ## Fungsi OSI secara singkat :
 
+<li><em>Physical</em> : Menentukan tegangan, kecepatan, besaran fisik, dan mengalirkan bit-bit antar device </li>
+
 
