@@ -57,6 +57,6 @@ Meskipun dalam praktiknya kita tidak berhubungan langsung dengan model OSI, dan 
 Proses pengubahan bentuk dari satu layer ke layer berikutnya dilakukan dengan menambahkan header khusus yang disebut enkapsulasi. Proses enkapsulasi terjadi berulang-ulang hingga data diubah menjadi bit-bit. Kemudian bit-bit ini dikirim ke host target melalui media jaringan.
 
 Setelah informasi (berupa bit-bit) sampai di host target maka proses kebalikannya, yaitu melepas header satu per satu dari layer terbawah hingga ke layer paling atas akan dilakukan. Proses melepas header ini disebut de-enkapsulasi.
-
+ 
 referensi :
 Forouzan, B. A. (2013). Data Communication and Networking. 5th Ed. New York: McGraw-Hill. ISBN:0073
