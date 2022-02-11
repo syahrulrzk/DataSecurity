@@ -45,11 +45,12 @@ Meskipun dalam praktiknya kita tidak berhubungan langsung dengan model OSI, dan 
 
 ## Cara Kerja model OSI :
 
-<ol>Informasi berawal dari layer Application. Informasi kemudian melewati layer presentation dan layer session. Pada tahap ini biasanya belum dilakukan transformasi data. </ol>
-Informasi yang melalui ketiga layer ini disebut PDU (Protocol Data Unit) atau data saja.
-Setelah sampai di layer Transport, data akan mengalami transformasi ke bentuk lain yang disebut segmen.
-Segmen mengalir ke layer network dan kemudian diubah menjadi packet.
-Packet mengalir ke layer data link dan kemudian diubah menjadi frame.
-Terakhir, frame mengalir ke layer physical dan kemudian diubah menjadi bits atau bit-bit.
-Pada layer ini, bit-bit diubah menjadi besaran fisik, seperti arus listrik, gelombang elektromagnetik, dan sebagainya.
-
+<ol>
+  <li>Informasi berawal dari layer Application. Informasi kemudian melewati layer presentation dan layer session. Pada tahap ini biasanya belum dilakukan transformasi data. <li>
+  <li>Informasi yang melalui ketiga layer ini disebut PDU (Protocol Data Unit) atau data saja.</li>
+  <li>Setelah sampai di layer Transport, data akan mengalami transformasi ke bentuk lain yang disebut segmen.</li>
+  <li>Segmen mengalir ke layer network dan kemudian diubah menjadi packet.</li>
+  <li>Packet mengalir ke layer data link dan kemudian diubah menjadi frame.</li>
+  <li>Terakhir, frame mengalir ke layer physical dan kemudian diubah menjadi bits atau bit-bit.</li>
+  <li>Pada layer ini, bit-bit diubah menjadi besaran fisik, seperti arus listrik, gelombang elektromagnetik, dan sebagainya.</li>
+</ol>
