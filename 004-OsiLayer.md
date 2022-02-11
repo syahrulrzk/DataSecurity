@@ -37,4 +37,5 @@ Meskipun dalam praktiknya kita tidak berhubungan langsung dengan model OSI, dan 
 
 <li><b>Physical</b> : Menentukan tegangan, kecepatan, besaran fisik, dan mengalirkan bit-bit antar device </li>
 <li><b>Data Link</b> : Menyediakan akses ke media menggunakan MAC Address dan melakukan error detection </li>
+<li><b>Network</b> : Menyediakan logical addressing dan menentukan rute menuju tujuan</li>
 
