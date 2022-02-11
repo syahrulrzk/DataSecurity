@@ -41,5 +41,5 @@ Meskipun dalam praktiknya kita tidak berhubungan langsung dengan model OSI, dan 
 <li><b>Transport</b> : Menyediakan reliable atau unreliable delivery dan mengecek error connection sebelum transmisi data </li>
 <li><b> Session</b> : Memisahkan data dari berbagai aplikasi</li>
 <li><b>Presentation</b> : Menyajikan data dan menangani proses seperti enkripsi data</li>
-Application : Menyediakan user interface
+<li><b>Application</b> : Menyediakan user interface</li>
 
