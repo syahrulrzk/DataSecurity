@@ -34,3 +34,4 @@ Meskipun dalam praktiknya kita tidak berhubungan langsung dengan model OSI, dan 
 <p align="center"><img src="https://drive.google.com/uc?export=view&id=11nBpByeuF31rfDoWeWspceyHxlTfcGzE"></p>
 
 
+
