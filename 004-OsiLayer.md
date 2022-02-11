@@ -40,6 +40,6 @@ Meskipun dalam praktiknya kita tidak berhubungan langsung dengan model OSI, dan 
 <li><b>Network</b> : Menyediakan logical addressing dan menentukan rute menuju tujuan</li>
 <li><b>Transport</b> : Menyediakan reliable atau unreliable delivery dan mengecek error connection sebelum transmisi data </li>
 <li><b> Session</b> : Memisahkan data dari berbagai aplikasi</li>
-Presentation : Menyajikan data dan menangani proses seperti enkripsi data
+<li><b>Presentation</b> : Menyajikan data dan menangani proses seperti enkripsi data</li>
 Application : Menyediakan user interface
 
