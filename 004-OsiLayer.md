@@ -31,7 +31,7 @@ Untuk mentranslasikan data yang hendak ditransmisikan oleh aplikasi ke dalam for
 Sebagai antarmuka dengan aplikasi dengan fungsionalitas jaringan, mengatur bagaimana aplikasi dapat mengakses jaringan, dan kemudian membuat pesan-pesan kesalahan. Protokol yang berada dalam lapisan ini adalah HTTP, FTP, SMTP, dan NFS.
 Meskipun dalam praktiknya kita tidak berhubungan langsung dengan model OSI, dan hanya berhubungan dengan protocol, namun model ini selalu digunakan network engineer dalam melakukan analisis dan troubleshooting jaringan komputer sehingga kita perlu memahami cara kerja model OSI.
 
-<p align="center"><img src="https://drive.google.com/uc?export=view&id=11nBpByeuF31rfDoWeWspceyHxlTfcGzE"></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1dDDheuMYCYGqAkS6bdGh9ShlqAayASzA"></p>
 
 
 
