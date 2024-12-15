@@ -41,7 +41,7 @@ UDP adalah protokol komunikasi yang lebih ringan dan cepat dibandingkan TCP. UDP
 - Game online
 - Resolusi DNS (Domain Name System)
 
-
+## Perbedaan TCP & UDP
 
 | Fitur | TCP/IP | UDP |
 |---|---|---|
@@ -49,3 +49,9 @@ UDP adalah protokol komunikasi yang lebih ringan dan cepat dibandingkan TCP. UDP
 | Reliabilitas | Andal (dengan pengecekan data) | Tidak andal (tanpa verifikasi) |
 | Kecepatan | Relatif lambat | Cepat |
 | Aplikasi | Browsing, email, transfer file | Streaming, game online |
+
+
+## Kesimpulan
+- TCP/IP digunakan untuk komunikasi yang membutuhkan akurasi, urutan, dan reliabilitas data.
+- UDP digunakan untuk aplikasi yang membutuhkan kecepatan tinggi, meskipun ada kemungkinan kehilangan data kecil.
+Protokol ini saling melengkapi sesuai dengan kebutuhan jaringan dan aplikasi yang digunakan.
