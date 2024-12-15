@@ -40,3 +40,12 @@ UDP adalah protokol komunikasi yang lebih ringan dan cepat dibandingkan TCP. UDP
 - Streaming video dan audio (Netflix, YouTube)
 - Game online
 - Resolusi DNS (Domain Name System)
+
+
+
+| Fitur | TCP/IP | UDP |
+|---|---|---|
+| Koneksi | Memerlukan koneksi | Tidak memerlukan koneksi |
+| Reliabilitas | Andal (dengan pengecekan data) | Tidak andal (tanpa verifikasi) |
+| Kecepatan | Relatif lambat | Cepat |
+| Aplikasi | Browsing, email, transfer file | Streaming, game online |
