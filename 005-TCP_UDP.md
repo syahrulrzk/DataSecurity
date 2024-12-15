@@ -1,5 +1,6 @@
 # TCP & UDP
-TCP dan UDP adalah dua protokol komunikasi yang digunakan dalam jaringan komputer untuk mengatur pengiriman data antar perangkat. Berikut penjelasan konsep dasarnya:
+TCP dan UDP adalah dua protokol komunikasi yang digunakan dalam jaringan komputer untuk mengatur pengiriman data antar perangkat.
+Dan TCP/UDP berada di Layer Transport (Lapisan Transport) dalam Model OSI (Open Systems Interconnection) atau Model TCP/IP.Berikut penjelasan konsep dasarnya:
 
 ## TCP/IP (Transmission Control Protocol/Internet Protocol)
 TCP/IP adalah protokol komunikasi utama yang menjadi dasar bagi internet dan jaringan komputer. Protokol ini memastikan data dikirim, diterima, dan disusun ulang dengan benar.
