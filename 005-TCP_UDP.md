@@ -23,3 +23,20 @@ TCP/IP adalah protokol komunikasi utama yang menjadi dasar bagi internet dan jar
 - Web browsing (HTTP/HTTPS)
 - Email (SMTP, IMAP, POP3)
 - Transfer file (FTP)
+
+## UDP (User Datagram Protocol)
+UDP adalah protokol komunikasi yang lebih ringan dan cepat dibandingkan TCP. UDP tidak menjamin reliabilitas data yang dikirim, sehingga lebih cocok untuk aplikasi yang membutuhkan kecepatan.
+
+### Fungsi Utama:
+- Mengirimkan data tanpa membuat koneksi terlebih dahulu.
+- Tidak memeriksa apakah data berhasil diterima.
+
+###Karakteristik UDP:
+- Tanpa koneksi (Connectionless): Data dikirim langsung ke tujuan tanpa memerlukan sesi komunikasi.
+- Cepat: Tidak ada proses verifikasi atau pengelolaan ulang.
+- Tidak reliabel: Data yang hilang tidak akan dikirim ulang.
+
+### Contoh Penggunaan UDP:
+- Streaming video dan audio (Netflix, YouTube)
+- Game online
+- Resolusi DNS (Domain Name System)
